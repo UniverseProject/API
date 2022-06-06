@@ -1,0 +1,5 @@
+name: API
+version: 1.0
+author: Universe team
+api-version: 1.18
+main: org.universe.api.APIPlugin
